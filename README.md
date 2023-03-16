@@ -11,9 +11,12 @@
 - Javascript
 - Bootstrap
 # Areas of Responsibility
-- Developed the landing page.
-- Built the on-scroll functionality
-- Managed the GitHub codebase.
+- Built the Blog section
+- Beauty's Page
+- Men's Page
+- Interiors's Page
+- Humans of Urban Company's page
+
 # Preview
 <img align="left" alt="Coding" width="100%"  src="https://i.postimg.cc/d19JWNQL/1.jpg" border-radius="500%"/>
 <img align="left" alt="Coding" width="100%"  src="https://i.postimg.cc/hPYc3dnb/2.jpg" border-radius="500%"/>
